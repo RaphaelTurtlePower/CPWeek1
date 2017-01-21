@@ -1,4 +1,4 @@
-package com.cp.strings.prework.weekone;
+package com.cp.strings.weekone.prework;
 
 public class IsPalindrome {
 

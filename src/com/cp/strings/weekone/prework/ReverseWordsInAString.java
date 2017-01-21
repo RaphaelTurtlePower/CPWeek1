@@ -1,4 +1,4 @@
-package com.cp.strings.prework.weekone;
+package com.cp.strings.weekone.prework;
 
 public class ReverseWordsInAString {
 	public String reverseWords(String a) {

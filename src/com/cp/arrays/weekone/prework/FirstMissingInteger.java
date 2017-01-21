@@ -1,4 +1,4 @@
-package com.cp.arrays.prework.weekone;
+package com.cp.arrays.weekone.prework;
 
 import java.util.ArrayList;
 import java.util.HashSet;
